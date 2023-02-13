@@ -1,0 +1,19 @@
+Menù Pesce 
+
+Primi Piatti: 
+        
+            Spaghetti allo Scoglio
+            Ingredienti: Spaghetti, Vongole, Scampi, 
+                         Cozze, Calamari, Pomodoro ciliegio, 
+                         Vino bianco, Prezzemolo, Aglio, 
+                         Olio Evo, Sale, Pepe.
+
+            Pasta con le Sarde
+            Ingredienti: Spaghettoni, Sarde, Acciughe sott'olio, 
+                         Finocchietto selvatico, Uva passa, Pinoli, 
+                         Cipollotto, Aglio rosso, Olio Evo, Sale, 
+                         Peperoncino.
+
+            Linguine al limone con gamberi e pistacchi
+            Ingredienti: Linguine, Gamberi, Limone, 
+                         Pistacchi, Aglio, Aglio, Olio Evo, Sale, Pepe.
